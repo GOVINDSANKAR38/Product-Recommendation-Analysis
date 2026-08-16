@@ -6,7 +6,7 @@ This project focuses on enhancing product recommendations and understanding mark
 ## Dataset Structure 
 The dataset for this project was organized into a SQL-based data warehouse with multiple tables for customer data, sales records, product information, and regional market data. The primary data structure used for this analysis and modeling is the combination of two major sources:
 
-  * [Superstore Data](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/data/Superstore-Data.csv): Superstore purchase history and revenue data.
+  * [Superstore Data](https://github.com/GOVINDSANKAR38/Product-Recommendation-Analysis/blob/main/data/Superstore-Data.csv): Superstore purchase history and revenue data.
   * [Superstore Reviews Data](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/data/Superstore-Dataset-Reviews.csv): Rating, review and summary of the product given by the customer. 
     
 Note: The dataset comprised 10,000+ records, divided into 36 columns, the feature-target description you can see [here](https://github.com/GOVINDSANKAR38/Product-Recommendation-Analysis/blob/main/data/Features_Target_Description.txt).
