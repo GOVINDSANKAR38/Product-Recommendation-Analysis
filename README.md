@@ -27,7 +27,7 @@ Key insights included the dominance of the "Consumer" segment in profitability, 
 ## Dashboard
 
 Here is the glimpse of dashboard.
-![Screenshot 2023-04-12 165416](https://user-images.githubusercontent.com/84131752/231447810-39810cfc-f423-4463-b6c8-e2eb4c73f878.png)
+![Screenshot 2023-04-12 165416](https://github.com/GOVINDSANKAR38/Product-Recommendation-Analysis/blob/main/Dashboard.png)
 
 
 ## Insights
